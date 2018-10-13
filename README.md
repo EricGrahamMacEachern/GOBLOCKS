@@ -1,2 +1,0 @@
-# GOBLOCKS
-GODOT game
